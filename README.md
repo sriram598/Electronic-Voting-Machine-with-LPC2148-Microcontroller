@@ -92,12 +92,6 @@ The system records each vote, counts the totals, and displays the final winner.
 
 ---
 
-##  Author
-**Tungala Sriram**  
-🎓 Electronics and Communication Engineering (ECE)  
-🔗 [GitHub Profile](https://github.com/yourusername)
-
----
 
 ## License
 This project is open-source under the **MIT License**.
