@@ -84,11 +84,7 @@ The system records each vote, counts the totals, and displays the final winner.
 - **Crystal Oscillator (12 MHz)**  
 - **Proteus / Keil µVision / Flash Magic**
 
----
 
-##  Circuit Diagram
-*(Insert your Proteus screenshot here)*  
-`![Circuit Diagram](path-to-your-image.png)`
 
 ---
 
